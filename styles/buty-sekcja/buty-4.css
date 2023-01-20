@@ -1,0 +1,102 @@
+.jordan-preview-4 {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+.kupno-4 {
+  margin-top: 20px;
+}
+
+.jordan-4 {
+  margin-left: 30px;
+  margin-top: 10px;
+  line-height: 30px;
+  width: 200px;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: justify
+}
+
+.money-4 {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  margin-bottom: 1px;
+  margin-left: 27px;
+  font-size: 30px;
+  padding-top: 7px;
+}
+
+.cost-4 {
+  font-weight: bold;
+  margin-left: 49px;
+}
+
+.chinese-4 {
+  margin-left: 55px;
+  font-size: 16px;
+  font-family: arial;
+  font-weight: bold;
+
+  margin-top: 1px;
+}
+
+.free-4 {
+  font-weight: bold;
+  font-family: arial;
+  color: rgb(58, 56, 56);
+  margin-left: 46px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.koszyk-4 {
+  background-color: rgb(255, 215, 20);
+  color: black;
+
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  border-radius: 50px;
+  border-style: solid;
+  cursor: pointer;
+  margin-right: 12px;
+  margin-left: 30px;
+  font-weight: bold;
+  font-size: 10px;
+  transition: 0.15s;
+}
+
+.buy-4 {
+  background-color: rgb(255, 164, 28);
+  color: black;
+
+  padding-left: 15px;
+  padding-right: 16px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  border-radius: 50px;
+  border-style: solid;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 10px;
+  transition: 0.15s;
+}
+
+.koszyk-4:hover {
+  opacity: 0.7;
+}
+
+.koszyk-4:active {
+  opacity: 0.45;
+}
+
+.buy-4:hover {
+  opacity: 0.7;
+}
+
+.buy-4:active {
+  opacity: 0.45;
+}

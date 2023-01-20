@@ -1,0 +1,82 @@
+.jordan-2{
+  margin-left: 30px;
+  margin-top: 10px;
+  line-height: 30px;
+width: 200px;
+font-size: 20px;
+font-weight: bold;
+text-align:justify
+}
+
+.money-2{
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  margin-bottom: 1px;
+  margin-left: 27px;
+  font-size: 30px;
+  padding-top: 7px;
+}
+.cost-2{
+font-weight: bold;
+margin-left: 49px;
+}
+.chinese-2{
+margin-left: 55px;
+font-size: 16px;
+font-family: arial;
+font-weight: bold;
+
+margin-top: 1px;
+}
+.free-2{
+  font-weight: bold;
+font-family: arial;
+color: rgb(58, 56, 56);
+margin-left: 46px;
+margin-top: 10px;
+font-size: 16px;
+}
+.koszyk-2{
+  background-color: rgb(255, 215, 20);
+  color: black;
+
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  border-radius: 50px;
+  border-style: solid;
+  cursor: pointer;
+  margin-right: 12px;
+  margin-left: 30px;
+  font-weight: bold;
+  font-size: 10px;
+  transition: 0.15s;
+}
+.buy-2{
+  background-color: rgb(255, 164, 28);
+  color: black;
+
+  padding-left: 15px;
+  padding-right: 16px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  border-radius: 50px;
+  border-style: solid;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 10px;
+  transition: 0.15s;
+}
+.koszyk-2:hover {
+  opacity: 0.7;
+}
+.koszyk-2:active {
+  opacity: 0.45;
+}
+.buy-2:hover {
+  opacity: 0.7;
+}
+.buy-2:active {
+  opacity: 0.45;
+}

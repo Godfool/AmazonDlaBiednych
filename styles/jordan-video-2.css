@@ -1,0 +1,38 @@
+.film-1 {
+  width: 360px;
+  height: 240px;
+  cursor: pointer;
+}
+
+.buty-red-2 {
+  margin-left: 20px;
+  font-weight: bold;
+}
+
+.author-red-2 {
+  margin-left: 20px;
+  color: rgb(96, 96, 96);
+}
+
+.views-red-2 {
+  margin-left: 18px;
+  color: rgb(96, 96, 96)
+}
+
+.info-red-2 {
+  margin-left: 19px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.buty-wideo-2 {
+  width: 300px;
+  text-align: center;
+}
+
+.black-men {
+  width: 45px;
+  border-radius: 25px;
+  margin-left: 6px;
+  margin-top: 7px;
+}

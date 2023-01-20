@@ -1,0 +1,95 @@
+
+
+.jordan {
+  font-size: 22px;
+  margin-left: 10px;
+  font-weight: bold;
+  text-align:justify
+}
+.free {
+  margin-left: 35px;
+  margin-bottom: 8px;
+  font-size: 18px;
+  color: rgb(58, 56, 56);
+  font-weight: bold;
+}
+.cost{
+  margin-left: 51px;
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+  }
+.money {
+  color: rgb(0, 118, 0);
+  font-weight: bold;
+  margin-bottom: 15px;
+  margin-left: 36px;
+  font-size: 30px;
+  padding-top: 7px;
+}
+.chinese{
+  font-size: 16px;
+  font-family: arial;
+  font-weight: bold;
+  margin-left: 55px;
+  margin-bottom: 10px;
+  }
+.amazon {
+  font-size: 17px;
+}
+.amazon:hover {
+  color: red;
+}
+.amazon:active {
+  opacity: 0.45;
+}
+.koszyk {
+  background-color: rgb(255, 215, 20);
+  color: black;
+  padding-left: 15px;
+  padding-right: 20px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  border-radius: 50px;
+  border-style: solid;
+  cursor: pointer;
+  margin-right: 12px;
+  margin-left: 30px;
+  font-weight: bold;
+  font-size: 10px;
+  transition: 0.15s;
+}
+.buy {
+  background-color: rgb(255, 164, 28);
+  color: black;
+  padding-left: 15px;
+  padding-right: 16px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  border-radius: 50px;
+  border-style: solid;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 10px;
+  transition: 0.15s;
+}
+
+.koszyk:hover {
+  opacity: 0.7;
+}
+.koszyk:active {
+  opacity: 0.45;
+}
+.buy:hover {
+  opacity: 0.7;
+}
+.buy:active {
+  opacity: 0.45;
+}
+
+
+.box{
+margin-right: 10px;
+}
+
+
